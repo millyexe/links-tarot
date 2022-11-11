@@ -1,0 +1,52 @@
+h1{
+    color: black;
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 0px;
+ 
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+  
+  
+    padding: 32px; 
+    
+}
+    h2{
+
+        color: black;
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+        padding-top: 0px;
+       
+        display: flex;
+        justify-content: center;
+    }
+    .photo{
+ display: flex;
+    justify-content: center;
+   
+   display: flex;
+    justify-content: center;
+    
+    }
+
+    p{
+        justify-content: center;
+       
+       display: flex;
+        justify-content: center;
+
+
+    }
+
+    body{
+
+        background-image: url(./pink-sky-background-with-crescent-moon_53876-129048.webp);
+        background-size: cover;
+        background-attachment: fixed;
+    }
