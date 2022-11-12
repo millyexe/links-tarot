@@ -1,7 +1,7 @@
 h1{
     color: black;
     font-size: 100px;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Lobster", cursive;
     padding-top: 0px;
  
     display: flex;
@@ -20,7 +20,7 @@ h1{
 
         color: black;
         font-size: 25px;
-        font-family: 'Roboto', sans-serif;
+        font-family: "Lobster", cursive;
         padding-top: 0px;
        
         display: flex;

@@ -1,16 +1,63 @@
-.boxes {
+h1{
+    color: black;
+    font-size: 100px;
+    font-family: "Lobster", cursive;
+    padding-top: 0px;
+ 
     display: flex;
-    justify-content: space-around;
-
+    justify-content: center;
 }
 
-@media only screen and (max-width: 600px){
-    .h1 {
-        font-size: 30px;
-    }
-    .h2{
+.card {
+    display: flex;
+    justify-content: center;
+  
+  
+    padding: 32px; 
     
-        font-size: 18px;
+}
+    h2{
+
+        color: black;
+        font-size: 25px;
+        font-family: "Lobster", cursive;
+        padding-top: 0px;
+       
+        display: flex;
+        justify-content: center;
     }
+    .photo{
+ display: flex;
+    justify-content: center;
+   
+   display: flex;
+    justify-content: center;
+    
+    }
+
+    p{
+        justify-content: center;
+       
+       display: flex;
+        justify-content: center;
+
+
+    }
+
+    body{
+
+        background-image: url(./pink-sky-background-with-crescent-moon_53876-129048.webp);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    @media only screen and (max-width: 600px){
+        .h1 {
+            font-size: 30px;
         }
-    
+        .h2{
+        
+            font-size: 18px;
+        }
+            }
+        
