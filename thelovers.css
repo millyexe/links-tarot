@@ -1,7 +1,7 @@
 h1{
     color: black;
     font-size: 100px;
-    font-family: "Lobster", cursive;
+    font-family: 'Roboto', sans-serif;
     padding-top: 0px;
  
     display: flex;
@@ -20,7 +20,7 @@ h1{
 
         color: black;
         font-size: 25px;
-        font-family: "Lobster", cursive;
+        font-family: 'Roboto', sans-serif;
         padding-top: 0px;
        
         display: flex;
@@ -37,7 +37,7 @@ h1{
 
     p{
         justify-content: center;
-        font-family: "Lobster", cursive;
+        font-family: 'Roboto', sans-serif;
        display: flex;
         justify-content: center;
 
@@ -60,4 +60,5 @@ h1{
             font-size: 18px;
         }
             }
+               
                
