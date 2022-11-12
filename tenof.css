@@ -50,3 +50,14 @@ h1{
         background-size: cover;
         background-attachment: fixed;
     }
+
+    @media only screen and (max-width: 600px){
+        .h1 {
+            font-size: 30px;
+        }
+        .h2{
+        
+            font-size: 18px;
+        }
+            }
+        
